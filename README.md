@@ -40,9 +40,8 @@ At a minimum, your project README needs a title and a short description explaini
   ## Installation
 
    Here are the installation steps:
-1. Clone the repo through https://github.com/tanujjain2015/readmegenerator
-2. Navigate to Develop Directory.
-3. Execute "node.js index.js"
+1. Clone the repo through https://github.com/tanujjain2015/readmegenerator.
+2. Navigate to Develop Directory to execute main file index.js. 
 
   
   
@@ -55,17 +54,36 @@ At a minimum, your project README needs a title and a short description explaini
   
   ## Usage
 
-   Here are the usage details:
-1. Please execute "node.js index.js" 
-2. Answer questions asked on command prompt. 
-3. Read me would be generated into parent directory. 
+   Usage Link: 
+Recording Link:  https://drive.google.com/file/d/1MY649mRC6lzbwKsOFPCym7TtMsVnJC9o/view 
+
+Here are the usage details:
+1. Execute “npm init”.
+2. Execute “npm install inquirer” 
+3. Execute "node.js index.js"
+4. Answer questions asked on command prompt. Here are the instructions:
+    1.  Please enter your Project Name or Title. Specify valid Title Name. 
+    2.  Please specify valid GitHub username. 
+    3. Specify valid user email. 
+    4. Specify valid Project description.  Hit enter, which will open the VI editor. Enter Project details and save through “wq!” command. 
+    5. Please confirm if user want to specify Installation steps. 
+        1. If yes, then specify the steps in editor.  Hit enter, which will open the VI editor. Enter Installation steps and save through “wq!” command.
+    6. Please confirm if user wants to specify Usage. 
+        1. If yes, then specify the steps in editor. Hit enter, which will open the VI editor. Enter Usage steps and save through “wq!” command.
+    7. Please confirm if user wants to specify License. 
+        1. If yes, then proceed with License Type through multiple choice questions.  Select options through up and down arrow and hit enter. 
+    8. Please confirm if user wants to specify Contribution.
+        1. If yes, then specify the steps in editor.  Hit enter, which will open the VI editor. Enter Contribution details and save through “wq!” command.
+    9. Please confirm if user wants to add Test Details.
+        1. If yes, then specify the steps in editor.  Hit enter, which will open the VI editor. Enter Test details and save through “wq!” command.
+5. Read me would be generated into parent directory.
 
   
   
 
   ## Credits
 
-   This program has been developed by tanujjain2015.
+   This program has been developed with help of Berkley Institute course material and guidance of Instructors.
 
   
   
@@ -102,16 +120,17 @@ At a minimum, your project README needs a title and a short description explaini
 
   ## Contribution
 
-   The main contributor for this program is Tanuj Jain with help of Berkeley Students group and their online program.
+   The main contributor for this program is Tanuj Jain with help of Berkeley Students group and their online program material. 
 
   
   
 
   ## Test
 
-   Here are the Test executed:
+   Test:
+Here are the Test executed:
 1. Validate all negative values.
-2. Validate positive Values. `
+2. Validate positive Values.
 
   
   

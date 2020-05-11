@@ -8,12 +8,12 @@ const questions = () => {
         {
             type: 'input',
             name: 'projectName',
-            message: "Please enter your Project Name?",
+            message: "Please enter your Project Title?",
             validate: nameInput => {
                 if (nameInput){
                     return true;
                 } else {
-                    console.log("Please enter your Project name?");
+                    console.log("Please enter your Project Title?");
                     return false;
                 }
             }
