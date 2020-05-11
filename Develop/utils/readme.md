@@ -19,8 +19,6 @@ At a minimum, your project README needs a title and a short description explaini
 
 * [Installation](#Installation)
 
-* [Github Details](#Github)
-
 * [Usage](#Usage)
 
 * [Credit](#Credits)
@@ -39,15 +37,12 @@ At a minimum, your project README needs a title and a short description explaini
 
   ## Installation
 
-   Here are the installation steps:
-1. Clone the repo through https://github.com/tanujjain2015/readmegenerator
-2. Navigate to Develop Directory.
-3. Execute "node.js index.js"
+   1. Install Step 1
 
   
   
 
-  ## Github
+  ## Github Details
 
   https://github.com/tanujjain2015/readmegenerator
   
@@ -55,17 +50,15 @@ At a minimum, your project README needs a title and a short description explaini
   
   ## Usage
 
-   Here are the usage details:
-1. Please execute "node.js index.js" 
-2. Answer questions asked on command prompt. 
-3. Read me would be generated into parent directory. 
+   Run this application with below command: 
+node index.js
 
   
   
 
   ## Credits
 
-   This program has been developed by tanujjain2015.
+   This is application has been developed by tanujjain2015
 
   
   
@@ -102,16 +95,15 @@ At a minimum, your project README needs a title and a short description explaini
 
   ## Contribution
 
-   The main contributor for this program is Tanuj Jain with help of Berkeley Students group and their online program.
+   This project has been contributed by all Berkley Team.
 
   
   
 
   ## Test
 
-   Here are the Test executed:
-1. Validate all negative values.
-2. Validate positive Values. `
+   1.  Check Negative values in prompt. 
+2.  Check for positive values.
 
   
   
